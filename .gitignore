@@ -221,3 +221,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.DS_Store
+analysis/cleese_stim
+analysis/openface
+analysis/motion_df.pkl
+analysis/stimuli/**/*.mov
+analysis/responses/study2/demographic_*.csv
+analysis/stimuli/**/*.wav
+manuscript/cover_letter.pdf
+manuscript/response_17842.pdf
+manuscript/response_18039.pdf
+speed_dating_corpus/raw_extracts
+speed_dating_corpus/sharpened_db
